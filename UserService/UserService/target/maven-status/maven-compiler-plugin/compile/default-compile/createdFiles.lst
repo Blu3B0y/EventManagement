@@ -1,0 +1,8 @@
+com\eventify\UserService\controller\AuthController.class
+com\eventify\UserService\util\JwtUtil.class
+com\eventify\UserService\controller\HomeController.class
+com\eventify\UserService\model\User.class
+com\eventify\UserService\service\UserService.class
+com\eventify\UserService\UserServiceApplication.class
+com\eventify\UserService\config\SecurityConfig.class
+com\eventify\UserService\repo\UserRepo.class
